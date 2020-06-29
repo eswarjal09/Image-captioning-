@@ -13,9 +13,9 @@ Using the captions for the training images we build vocabulary which we use to c
 
 
 ## Requirements
-pytorch - 1.0 
-nltk
-python - 3.6
+-pytorch - 1.0 
+-nltk
+-python - 3.6
 
 ## Training
 python train.py 
